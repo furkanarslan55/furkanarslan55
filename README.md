@@ -1,4 +1,4 @@
-# Merhaba, Ben [Furkan]! 👋
+# Merhaba, Ben Furkan! 👋
 ## 💻 .NET Yazılım Geliştirici (Software Developer)
 
 Backend mimarileri, temiz kod (clean code) prensipleri ve ölçeklenebilir sistemler üzerine odaklanmış bir yazılım geliştiricisiyim. Şu anda modern .NET teknolojileri ile kurumsal çözümler üretiyorum.
