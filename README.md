@@ -3,7 +3,7 @@
 
 Backend mimarileri, temiz kod (clean code) prensipleri ve ölçeklenebilir sistemler üzerine odaklanmış bir yazılım geliştiricisiyim. Şu anda modern .NET teknolojileri ile kurumsal çözümler üretiyorum.
 
-- 🔭 Şu anda **[Halı E-ticaret Sistemi]** üzerinde çalışıyorum.
+- 🔭 Şu anda **[Finans Yönetim Sistemi]** üzerinde çalışıyorum.
 - 🌱 **Microservices** ve **Cloud Native** mimariler hakkında araştırmalar yapıyorum.
 - 💬 Bana **C#, .NET Core, Entity Framework ve SQL** hakkında her şeyi sorabilirsin mümkün mertebe çözüm odaklı olabilirim.
 - 📫 Bana ulaşmak için: **[furkanarslan0811@gmail.com]**
